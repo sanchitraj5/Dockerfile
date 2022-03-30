@@ -1,2 +1,2 @@
-From alpine
-Run apk update
+FROM alpine
+RUN apk update
